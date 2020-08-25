@@ -13,3 +13,6 @@ In this course, we will learn the basic tools that every web page coder needs to
 - Module 1 [HTML]: No coding Assignment
 - Module 2 [CSS]: [Assignment 2](https://ppmbrouwers.github.io/coursera_webdev/module2-solution/)
 - Module 3 [CSS/Bootstrap]: [Assignment 3](https://ppmbrouwers.github.io/coursera_webdev/module3-solution/)
+- Module 4 [Javascript]: [Assignment 4](https://ppmbrouwers.github.io/coursera_webdev/module4-solution/)
+- Module 5 [Javascript]: [Assignment 5](https://ppmbrouwers.github.io/coursera_webdev/module5-solution/)
+
